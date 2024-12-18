@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Isa
-- 👀 I’m interested in design.
-- 🌱 I’m currently learning how to build a website with Framer.
-- 💞️ I’m looking to collaborate on product design projects. 
+- 👀 I'm a UX Designer for Fiveonefour
+- 🌱 I’m currently learning how to code with Mimo 
 - 📫 How to reach me on www.linkedin.com/in/isabellelussier ! 
 - ⚡ Fun fact: I signed up for a half-Ironman and now I gotta start training for it.
-- website: coming soooooon
 
 <!---
 IsabelleLussier/IsabelleLussier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
